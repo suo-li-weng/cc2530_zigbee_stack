@@ -1,0 +1,1 @@
+\Projects\zstack\Samples\SampleApp\CC2530DB\SampleApp.eww

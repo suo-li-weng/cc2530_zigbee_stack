@@ -1,0 +1,20 @@
+终端
+        DS18B20           P07
+        MFRC522
+                       MF522_NSS      P1_4
+                       MF522_SCK      P1_5
+                       MF522_SI         P1_6
+                       MF522_SO       P2_1
+                       MF522_RST      P2_2
+        MQ-2 
+                       DO     P05
+                       AO     P06
+        继电器               P04
+
+
+协调器
+        蜂鸣器               p07
+        ESP8266
+                      Tx       p02
+                      Rx       p03
+        光敏电阻            p06
